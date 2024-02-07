@@ -7,7 +7,9 @@ BookTown is a fully functional website for purchasing books. It was created usin
 - HTML
 - CSS
 - Bootstrap
+- Tailwind
 - JavaScript
+  
 
 ## The project includes the following features:
 
@@ -15,15 +17,5 @@ BookTown is a fully functional website for purchasing books. It was created usin
 - Shopping cart
 - Order placement
 - Payment integration
-
-## Installation
-To run the BookTown Project locally, follow these steps:
-
-- Clone the repository
-- Open the index.html file in Home-Page folder in your preferred browser
-- Enjoy browsing and purchasing books!
-
-## Contributing
-We welcome contributions from anyone interested in improving the BookTown! To contribute, please fork the repository and submit a pull request with your changes.
 
 `This project is developed for educational purposes and is free to use and modify.`
