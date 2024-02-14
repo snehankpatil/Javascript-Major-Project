@@ -16,6 +16,4 @@ BookTown is a fully functional website for purchasing books. It was created usin
 - User authentication and authorization
 - Shopping cart
 - Order placement
-- Payment integration
-
-`This project is developed for educational purposes and is free to use and modify.`
+- Payment integration 
